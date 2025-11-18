@@ -1,1 +1,2 @@
 b8f68e984a0328f672b32d4b40c9db1a63baf0c210c79b8d2767a4fbe7516261 filter=lfs diff=lfs merge=lfs -text
+medical_knowledge_db/chroma.sqlite3 filter=lfs diff=lfs merge=lfs -text
